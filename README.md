@@ -1,2 +1,2 @@
 # chat
-simple chatbox
+simple chatbox for learning.
