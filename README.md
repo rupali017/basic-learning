@@ -1,2 +1,2 @@
-# chat
-simple chatbox for learning.
+# basic-learning
+Today I got to know how to create repository.
